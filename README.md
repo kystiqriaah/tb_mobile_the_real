@@ -21,3 +21,7 @@ ini merupakan aplikasi celenganku denagn menggunakan database hive. dan untuk ke
 > `flutter build apk`
 
 # Screenshots
+![Alt text](<2023-07-03 at 17.52.51.jpg>)
+![Alt text](<2023-07-03 at 17.53.40.jpg>)
+![Alt text](<2023-07-03 at 17.53.51.jpg>)
+![Alt text](<2023-07-03 at 17.54.49.jpg>)
