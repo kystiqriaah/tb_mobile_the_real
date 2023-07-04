@@ -12,7 +12,7 @@ ini merupakan aplikasi celenganku denagn menggunakan database hive. dan untuk ke
 1. git clone 
 > `https://github.com/kystiqriaah/tb_mobile_the_real`
 2. buka folder tb_mobile_the_real tersebut pada VScode
-3. kemudian ketikan pada terminal :
+3. kemudian ketikan pada terminal untuk mengintsal semua dependency yang digunakan :
 > `flutter pub get`
 4. setelah itu pilih device atau emulatornya terlebih dahulu, pada bagian pojok kanan bawah.
 5. nah untuk menjalankannya programnya ketikkan :
