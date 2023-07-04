@@ -1,5 +1,5 @@
 # tb_mobile_the_real
-ini merupakan aplikasi celenganku yang menggunakan database hive. dan untuk kejelaskan langkah langkah ngebuild nya silahkan ikuti instruksi dibawah ini :
+ini merupakan aplikasi celenganku denagn menggunakan database hive. dan untuk kejelaskan langkah langkah ngebuild nya silahkan ikuti instruksi dibawah ini :
 
 # Requirements
 | Package | Version |
@@ -10,7 +10,7 @@ ini merupakan aplikasi celenganku yang menggunakan database hive. dan untuk keje
 
 # Installation
 1. git clone 
-> ``
+> `https://github.com/kystiqriaah/tb_mobile_the_real`
 2. buka folder tb_mobile_the_real tersebut pada VScode
 3. kemudian ketikan pada terminal :
 > `flutter pub get`
@@ -19,3 +19,5 @@ ini merupakan aplikasi celenganku yang menggunakan database hive. dan untuk keje
 > `flutter run`
 6. untuk build menjadi apk tinggal ketikan perintah dibawah ini :
 > `flutter build apk`
+
+# Screenshots
